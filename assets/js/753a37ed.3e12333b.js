@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpcp_55_github_io=self.webpackChunkpcp_55_github_io||[]).push([[8980],{6352:l=>{l.exports=JSON.parse('{"label":"facebook","permalink":"/hello-world/blog/tags/facebook","allTagsPath":"/hello-world/blog/tags","count":1,"unlisted":false}')}}]);
