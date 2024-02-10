@@ -1,6 +1,8 @@
-# Website
+If you would like to setup Docusuarus on Github page, just follow [Daniel Laera on Youtube](https://www.youtube.com/watch?v=9iVNf0T09dE) or the instruction below.
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Website
+
+[This website](https://pcp55.github.io/hello-world/) is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
@@ -39,3 +41,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+---
+
+Alternative resource 
