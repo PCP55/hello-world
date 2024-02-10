@@ -74,8 +74,6 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/learning', label: 'Learning', position: 'left'},
-          {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://www.linkedin.com/in/chalat-ph/',
             label: 'LinkedIn',
