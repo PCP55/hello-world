@@ -12,4 +12,3 @@ tags: [learning]
 
 ## 2020
 - [hands-on] personal Python library on PyPI: yellowduck | [Github](https://github.com/PCP55/yellowduck-dev)
-
